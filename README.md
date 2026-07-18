@@ -17,11 +17,7 @@
 </p>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tanmay5268/tanmay5268/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tanmay5268/tanmay5268/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/tanmay5268/tanmay5268/output/github-contribution-grid-snake.svg" />
-  </picture>
+    ![snake git](https://raw.githubusercontent.com/tanmay5268/tanmay5268/output/github-contribution-grid-snake.svg)
 </div>
 
 <hr>

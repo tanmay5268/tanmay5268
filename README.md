@@ -22,7 +22,7 @@
 
 
 <p align="center">
-  TECH-LAB
+    I USE
 
 <table align="center" width="80%">
   <tr>

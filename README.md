@@ -1,4 +1,4 @@
-<div align="center">
+<div style={{display:"flex"}} align="center">
   <img
     width="100%"
     src="https://capsule-render.vercel.app/api?type=waving&width=2200&height=100&section=header&theme=gruvbox_lighttext=Welcome&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&color=gradient"

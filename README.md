@@ -17,7 +17,7 @@
 </p>
 
 <div align="center">
-    ![snake git]("https://raw.githubusercontent.com/tanmay5268/tanmay5268/output/github-contribution-grid-snake.svg")
+    <img src="https://raw.githubusercontent.com/tanmay5268/tanmay5268/output/github-contribution-grid-snake.svg" />
 </div>
 
 <hr>
